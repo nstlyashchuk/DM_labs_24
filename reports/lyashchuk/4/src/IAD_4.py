@@ -12,6 +12,8 @@ from tensorflow import keras
 from tensorflow.keras import layers, models
 from tensorflow.keras.callbacks import EarlyStopping
 
+
+
 tf.keras.backend.set_floatx('float32')
 
 # =============================================================================
